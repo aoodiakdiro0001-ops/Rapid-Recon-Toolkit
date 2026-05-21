@@ -1,0 +1,8 @@
+dev
+test
+api
+admin
+staging
+mail
+vpn
+shop
